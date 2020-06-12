@@ -1,0 +1,89 @@
+************** Student Database *******************
+
+{
+	"first_name":"Vinay",
+        "last_name": "Gupta",
+        "middle_name": "Jaykumar",
+        "parents_name": "Jaykumar",
+        "phone_no": 9766067479,
+        "email_id": "gvinay90@mail.com",
+        "date_of_birth": "1999-04-26",
+        "caste": "OBC",
+        "parents_contact_no": 9890920105,
+        "address":"Kewal Park,Room No:12,Ambad,Link Road",
+        "gender":"M",
+        "school_name": "VPMS",
+        "tenth_percentage": 83.6,
+        "jr_college_name": "M.S.Gosavi",
+        "hsc_percentage": 61.83,
+        "college_name": "AVCOE",
+        "current_field": "COMP",
+        "first_year_firstsem": 7.96,
+        "first_year_secondsem": 7.8,
+        "second_year_firstsem": 7.8,
+        "second_year_secondsem": 8.6,
+        "third_year_firstsem": 7.65,
+        "third_year_secondsem": 7.5,
+        "previous_backlog": 0,
+        "current_backlog":0,
+        "year_of_admission": 2017,
+        "passing_year": 2021,
+        "spoken_languages":["English","Hindi","Marathi"],
+        "software_known":["Python","Java","C++"],
+        "achivements":["Zonals Footbal"],
+        "urls": ["Github:Gvinay90","Linkedin:Gvinay90"],
+        "projects": ["MEAN"],
+        "certification": ["Python Certification"],
+        "career_obj": "Persue Good Job",
+        "strength": ["Motivated","Positive attitide"],
+        "placed_status": "No",
+        "user_name": "Gvinay90",
+        "pass_word": 9183
+}
+
+
+***************************** TPO Database **************************************
+
+{
+	"first_name": "Balasaheb",
+        "last_name": "Sable",
+        "gender": "M",
+        "phone_no": 9467821035,
+        "email_id": "sable@gmail.com",
+        "college_name": "AVCOE",
+        "user_name": "Sable@123",
+        "pass_word": "1234"
+}
+
+
+*******************************Drive Database***********************************
+{
+        " college_name":"AVCOE",
+        "company_name":"TCS",
+        "drive_date":"10/9/2020",
+        "company_package": 3.5,
+        "tenth_percentage":83.6,
+        "twelth_percentage":61.83,
+        "diploma_percentage":84,
+        "aggregate_percentage":70,
+        "previous_backlogs": 0,
+        "current_backlogs":0,
+        "language_spoken":"japanese"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
